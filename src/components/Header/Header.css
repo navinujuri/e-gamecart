@@ -1,0 +1,21 @@
+#header-container{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    padding-bottom: "300px" !important
+
+}
+#num{
+    display: inline-block;
+    border: 3px solid  ;
+    padding: 5px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 28px;
+    right:13px;
+    background-color: red;
+    color:white;
+    width:35px;
+    text-align: center;
+}
